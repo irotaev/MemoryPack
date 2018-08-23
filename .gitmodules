@@ -1,0 +1,3 @@
+[submodule "MemoryPack.WebClient"]
+	path = MemoryPack.WebClient
+	url = ../MemoryPack.WebClient.git
